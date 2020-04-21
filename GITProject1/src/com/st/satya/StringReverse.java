@@ -8,6 +8,10 @@ public class StringReverse {
 		sb.append(str);
 		sb=sb.reverse();
 			System.out.println(sb);
+	}	
+		public  void m1() {
+			System.out.println("m1 method");
+		
 		}
 	}
 

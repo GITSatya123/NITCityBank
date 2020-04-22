@@ -21,10 +21,19 @@ public class StringReverse {
 				System.out.println("M2 method ");
 				
 			}
+
 			public void m4() {
 				System.out.println("M4 method ");
 				
 			}
+
+			
+			public void m3() {
+			
+				System.out.println("m3 method");
+			}
+			
+
 		
 		}
 	

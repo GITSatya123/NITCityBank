@@ -7,5 +7,8 @@ public class Test {
 
 		System.out.println("Test.main()");
 	}
+		public void m1() {
+			System.out.println("Test.main()");
+	}
 
 }

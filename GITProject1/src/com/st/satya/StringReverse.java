@@ -16,8 +16,13 @@ public class StringReverse {
 			System.out.println("m1 method:1234");
 
 			System.out.println("satya");
+		}
+			public void m2() {
+				System.out.println("M2 method ");
+				
+			}
 			
 		
 		}
-	}
+	
 
